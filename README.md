@@ -1,7 +1,7 @@
 # 🧠 Smart AI Research Summarizer
 
 An AI-powered assistant that helps you **read**, **understand**, **summarize**, and **test your knowledge** on uploaded research documents (PDF/TXT).  
-Developed for the **EZ Works GenAI Internship Assignment**.
+Developed for the **GenAI Project**.
 
 ---
 
@@ -45,7 +45,7 @@ Developed for the **EZ Works GenAI Internship Assignment**.
 
 ## 📫 Author
 
-| Name                     | GitHub                             | LinkedIn                                      |
-|--------------------------|------------------------------------|-----------------------------------------------|
-| **Tanishk Vardhan Srivastav** | [github.com/Tanishk0001](https://github.com/Tanishk0001) | [linkedin.com/in/tanishkvs](https://linkedin.com/in/tanishkvs) |
+| Name     |
+|----------|
+| **Arya** |
 
