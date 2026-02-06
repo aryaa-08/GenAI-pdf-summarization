@@ -26,8 +26,8 @@ Developed for the **GenAI Project**.
 | Step                   | Command                                                                 |
 |------------------------|-------------------------------------------------------------------------|
 | 🔁 Clone the repository | `git clone https://github.com/your-username/smart-ai-research-summarization.git`<br>`cd smart-ai-research-summarization` |
-| 🧪 Create environment   | `python -m venv tanishk`                                                |
-| ⚙️ Activate environment | `.\tanishk\Scripts\activate` (Windows)<br>`source tanishk/bin/activate` (Mac/Linux) |
+| 🧪 Create environment   | `python -m venv venv`                                                |
+| ⚙️ Activate environment | `.\venv\Scripts\activate` (Windows)<br>`source venv/bin/activate` (Mac/Linux) |
 | 📦 Install dependencies | `pip install -r requirements.txt`                                      |
 | 🖥️ Run the app          | `streamlit run app.py`                                                  |
 
